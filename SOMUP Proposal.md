@@ -1,10 +1,10 @@
 # Software Proposal Form
 
-- Your name: 
-- Your project title: 
+- Your name: Harry Grant 
+- Your project title: Synth Station
 
 # Describe the theme or key idea behind your project
-Here
+To design a harmonic virtual instrument that has can be played using a gaming controller.
 
 # Project research
 Replace this text. Briefly discuss examples of some current or historic related projects (include references in bibliography below).
@@ -13,39 +13,38 @@ Replace this text. Briefly discuss examples of some current or historic related 
 Replace this text. Note: please use APA referencing as standard.
 
 # Project development
-Replace this text. Explain how your project will work from a user's perspective. Imagine someone who has never used or heard your software before and is approaching it for the first time.
+The project will be an application that allows someone with a controller to play melodies and build chords using synthesis.
 
 ## What do you anticipate them to hear?
-Your text here
+They will hear a fairly basic Synth that responds to the users input controller data.
 
 ## How will they interact with your software?
-Your text here
+They will interact with my software by using the controllers various buttons, triggers and analog sticks.
+- May also feature a GUI with customizable synth parameters
 
 ## What unique features does your software offer them?
-Your text here
+My software will provide a new interface for interacting with virtual instruments, circumventing MIDI controllers.
 
 # List the input sources you will be using
 
 For example:
-
-- Audio file input
-- Real-time input
-- Synthetic sources
-- Other (specify here)
+- Real-time input for a controller
+  -  Possible audio file input
+  -  Possible Manual GUI input
+   
 
 # List the output sources you will be using
 
 For example:
 
-- Audio file output
 - Real-time audio output
-- Other (e.g the software emits control data)
+ - Possible Control Data Output
 
 # List how you will enable real-time control
 
 For example:
 
-- SuperCollider GUI
-- Open Sound Control (OSC)
-- MIDI
-- Other (please specify)
+- MAX MSP GUI
+- Human Interface Object in Max MSP
+  
+

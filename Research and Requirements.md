@@ -40,23 +40,39 @@ an accesible user experience may provide a framework for me to design my instrum
 
 # Project Requirements - Jobs To Be Done
 
-# Target Users
+## Target Users
  - Primary User: Experimental  musicians and hobbyists predisposed to unique DMI design
  - Secondary User: Gamers wishing to interact with music through a familiar interface
 
-# Primary Jobs 
+## Primary Jobs 
  - Create musical chords and melodies using a digital musical instrument
  - Play the musical instrument with a program designed to convert controller data into musical input
  - Provide intuitive, accessible and responsive gestural controls to be converted into musical input.
 
+## Secondary Jobs
+ - Provide multiple users a medium of interacting simultaneously with an instrument in real time
+ - Provide responsive haptic or visual feedback to reinforce successful gestural controls
+ - Provide a means for the secondary user to grasp harmonic theory using an interface they are familiar with
+
+## Potential Pain Points
+ - The sound created by each individual controller input is irreflective of the gestural control used to create it
+ - The sound created by the DMI itself is unpleasant, out of tune etc
+ - The instrument is inaccessible to users without musical knowledge
+ - The instrument is inflexible for users with musical knowledge
+
+## Potential Solutions
+ - Ensure every parameter is mapped to a controller input capable of fully and intuitively controlling it
+    - Analog stick for pitch control? Triggers for octave control? Buttons for envelope/percussive control?
+ - Use my own experience in DSP and Sound Design to provide every user with a synthesizer with timbral and harmonic merit
+ - Provide fully customizable scale and pitch options to account for the musical knowledge of every user
+    - Pentatonic scale mapped to analog stick direction for secondary user
+    - Fully modular analog direction pitch mapping and root note customization for primary users
 
 
 
 
 
-
-
-
+# References and Research Materials
 
 ## Organistrum Demo
 

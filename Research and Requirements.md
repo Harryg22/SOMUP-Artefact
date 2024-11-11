@@ -7,46 +7,45 @@ Potential problems solved by this artefact include:
 - Only one person being able to control a virtual instrument at any given time
 - Not having access to an intuitive tool for learning harmonic theory
 
-## Initial Research
+# Initial Research
+
+## Organistrum 
+A predecessor to the hurdie-gurdie that required two people to play it. 
+One person cranked the instrument whilst the other person used triggers to fret the strings.
+This could inform my design of a multiplayer instrument by having one person responsible for the volume
+of the instruments notes and chords whilst the other plays the pitches.
+
+## Miranda, E. R., & Wanderley, M. M. (2006). New Digital Musical Instruments: Control and Interaction Beyond the Keyboard
+This book is a comprehensive guide to unique music controllers. It provides examples of unconventional hardware being mapped to
+different parameters of a virtual instrument which directly parallels my area of interest.
+
+![Week7Fig2](https://github.com/user-attachments/assets/370fd8cc-5a2a-4fe2-ae17-a5a7d32c30c3)
+
+## Wanderley, M. M., & Battier, M. (2000). "Gestural Control of Music."
+This paper investigates how gesture based controllers can affect digital musical instruments in real time. The paper
+discusses designs based around splitting typical instrument interfaces in two when designing virtual instruments:
+ -  Gestural Interface: what is being done by a user physically to control an instrument
+ -  Sound Generation: what acoustic mechanism in the instrument is creating a sound
+Whilst typical acoustic instruments have there sound generation directly affected by the gestural interface, DMI's can
+split these and map them to whatever interface is desired.
+
+![Week7 Fig1](https://github.com/user-attachments/assets/e2375c27-b8be-41a1-858d-11711ee862be)
 
 
-# Project research
-Replace this text. Briefly discuss examples of some current or historic related projects (include references in bibliography below).
 
-## Proposed sources
-Replace this text. Note: please use APA referencing as standard.
 
-# Project development
-The project will be an application that allows someone with a controller to play melodies and build chords using synthesis.
 
-## What do you anticipate them to hear?
-They will hear a fairly basic Synth that responds to the users input controller data.
 
-## How will they interact with your software?
-They will interact with my software by using the controllers various buttons, triggers and analog sticks.
-- May also feature a GUI with customizable synth parameters
 
-## What unique features does your software offer them?
-My software will provide a new interface for interacting with virtual instruments, circumventing MIDI controllers.
 
-# List the input sources you will be using
 
-For example:
-- Real-time input for a controller
-  -  Possible audio file input
-  -  Possible Manual GUI input
-   
 
-# List the output sources you will be using
 
-For example:
 
-- Real-time audio output
- - Possible Control Data Output
+## Organistrum Demo
+[https://www.youtube.com/watch?v=1y4znr19YGw&t=354s]
 
-# List how you will enable real-time control
+## New Digital Musical Instruments: Control and Interaction Beyond the Keyboard Preview
+[https://books.google.co.uk/books?id=CGEwXZ7hcIoC&printsec=frontcover#v=onepage&q&f=false]
 
-For example:
-
-- MAX MSP GUI
-- Human Interface Object in Max MSP
+[kassel.pdf](https://github.com/user-attachments/files/17703467/kassel.pdf)

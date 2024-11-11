@@ -41,7 +41,7 @@ an accesible user experience may provide a framework for me to design my instrum
 # Project Requirements - Jobs To Be Done
 
 ## Target Users
- - Primary User: Experimental  musicians and hobbyists predisposed to unique DMI design
+ - Primary User: Experimental  musicians and hobbyists familiar with unique DMI design
  - Secondary User: Gamers wishing to interact with music through a familiar interface
 
 ## Primary Jobs 
